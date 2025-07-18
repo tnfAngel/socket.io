@@ -12,7 +12,7 @@
     "@types/express-session": "^1.17.7",
     "@types/node": "^20.6.0",
     "express": "~4.17.3",
-    "express-session": "~1.17.2",
+    "express-session": "~1.18.2",
     "socket.io": "^4.7.2",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
